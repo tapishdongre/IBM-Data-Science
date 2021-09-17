@@ -16,6 +16,7 @@ COURSE5 Python Project for Data Science
 
 COURSE6 Databases and SQL for Data Science with Python
  Week 1--- Week 2--- Week 3--- Week 4--- Week 5--- Week 6
+ 
 COURSE7 Data Analysis with Python
  Week 1--- Week 2--- Week 3--- Week 4 --- Week 5 --- Week 6
 
